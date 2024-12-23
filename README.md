@@ -1,4 +1,3 @@
-# Josephine Tetteh
 
 # Data Analyst & Mathematical Modeler 
 
