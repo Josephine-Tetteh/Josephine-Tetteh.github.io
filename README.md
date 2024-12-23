@@ -1,6 +1,6 @@
-# Josephine-Tetteh.github.io
+# Josephine Tetteh
 
-# Data Analyst & Mathematical Modeler - GitHub Pages
+# Data Analyst & Mathematical Modeler 
 
 Welcome to my GitHub Pages portfolio! This repository showcases my professional journey as a Data Analyst and Mathematical Modeler, with over six years of experience in the healthcare sector. I specialize in statistical and computational techniques to solve complex healthcare challenges, focusing on infectious disease modeling and health systems research.
 
