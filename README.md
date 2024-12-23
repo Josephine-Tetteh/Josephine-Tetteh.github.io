@@ -10,7 +10,7 @@ Here, you can find an overview of my work, including my academic background, pro
 
 ## **Professional Summary**
 
-I am a data analyst and mathematical modeler with a strong background in applying statistical and computational techniques to healthcare challenges. I specialize in infectious disease modeling, health systems research, survey design, and machine learning. With expertise in R, Python, and Stata, I have worked with multidisciplinary teams on impactful research, producing technical reports, policy briefs, and peer-reviewed publications.
+I am a highly skilled data analyst and mathematical modeler with over six years of experience applying statistical and computational techniques to address healthcare challenges. Expertise in survey design, data analysis, and machine learning, specializing in infectious disease modeling and health systems research. Proficient in R and Python with strong capabilities in data visualization, statistical modeling, and report writing. Proven ability to collaborate with multidisciplinary and international teams, delivering impactful solutions through technical writing, and peer-reviewed publications. Committed to leveraging analytical expertise to drive evidence-based solutions and contribute to the advancement of public health.
 
 ---
 
@@ -31,18 +31,19 @@ _Focus: Mathematical modeling, statistics, and data analysis._
 ### **Postdoctoral Researcher**
 German Cancer Research Center (DKFZ), Heidelberg, Germany  
 _October 2023 – Present_  
-- Developed mathematical models for COVID-19 analysis and control.
+- Conducting advanced research in statistical modeling and survey design for data analysis and management.
 - Designed and managed survey tools and data analysis protocols.
 
 ### **Research Associate**
 Frankfurt Institute for Advanced Studies, Germany  
-_August 2022 – Present_  
-- Analyzed high-resolution data for pandemic prediction using machine learning techniques.
+_August 2022 – July 2023_  
+- Analyzed high-resolution mathematical models for analysis, prediction and control of COVID-19 using machine learning approaches.
 
 ### **Data Consultant**  
 Freelance, Cape Town, South Africa  
 _August 2021 – February 2022_  
-- Developed statistical models for urban agriculture and food security in low- and middle-income countries (LMICs).
+- Developed statistical models for urban agriculture and food security in LMICs using survey data.
+- Designed analyses on COVID-19 impact on women's time-use and household 
 
 ### **Graduate Researcher**
 J.W. Goethe University, Germany  
@@ -53,7 +54,7 @@ _February 2019 – July 2022_
 
 ## **Technical Skills**
 
-- **Programming Languages**: R (R Markdown, Tidyverse, ggplot2), Python (TensorFlow, PyTorch), Stata.
+- **Programming Languages**: R (R Markdown, Tidyverse, ggplot2), Python (TensorFlow, PyTorch), SAS.
 - **Version Control**: Git, GitHub.
 - **Data Management**: Sampling, clustering, survey weights, high-frequency checks, and cleaning protocols.
 - **Visualization Tools**: ggplot2, Matplotlib, Seaborn, Plotly.
@@ -62,12 +63,6 @@ _February 2019 – July 2022_
 ---
 
 ## **Publications & Reports**
-
-1. **Tetteh, J. N., et al.** (2023). Scheduling collateral sensitivity-based cycling therapies toward eradication of drug-resistant infections. *International Journal of Robust and Nonlinear Control*.
-2. **Tetteh, J. N., et al.** (2021). Network models to evaluate vaccine strategies toward herd immunity in COVID-19. *Journal of Theoretical Biology*.
-3. **Tetteh, J. N., et al.** (2020). A survey of within-host and between-hosts modelling for antibiotic resistance. *Biosystems*.
-4. **Tetteh, J. N., et al.** (2020). Lyapunov-based Switching to Mitigate Antimicrobial Resistance. *IFAC-PapersOnLine*.
-5. **Hernandez-Vargas, E. A., et al.** (2019). A new view of multiscale stochastic impulsive systems for modeling and control of epidemics. *Annual Reviews in Control*.
 
 ---
 
@@ -84,14 +79,14 @@ _February 2019 – July 2022_
 - Python for Everybody (Coursera)
 - COVID-19 Contact Tracing (Coursera)
 - Understanding Clinical Research: Behind the Statistics (Coursera)
-- Data Science Professional Certificate (Institution Name)
-- R for Data Science (Institution Name)
 
 ---
 
 ## **Contact**
 
-Feel free to reach out to me for collaborations, questions, or any other inquiries. My contact information and further details can be found on my LinkedIn profile and other professional platforms.
+- **Email**: [josephinetetteh@aims.ac.za](mailto:josephinetetteh@aims.ac.za)   
+- **LinkedIn**: [Josephine Naa Ayeley Tetteh, PhD](https://www.linkedin.com/in/josephine-tetteh-5520aba5/)  
+- **Google Scholar**: [Josephine Tetteh](https://scholar.google.ae/citations?user=-kqkmYAAAAAJ&hl=en)  
 
 ---
 
