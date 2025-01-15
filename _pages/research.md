@@ -1,8 +1,8 @@
 ---
 title: "Research"
-layout: page
+
 permalink: /research/
-author_profile: true
+
 ---
 
 I am passionate about applying statistical methods and computational tools to uncover insights, optimize processes, and tackle global health challenges. Whether predicting disease outbreaks, refining public health interventions, or analyzing trends, I thrive on analytical rigor and precision.
