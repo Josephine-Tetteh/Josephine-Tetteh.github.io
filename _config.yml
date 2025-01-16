@@ -67,7 +67,7 @@ author:
       url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/josephine-tetteh"
+      url: "https://www.linkedin.com/in/josephine-tetteh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -79,7 +79,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/josephine-tetteh"
+      url: "https://www.linkedin.com/in/josephine-tetteh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
